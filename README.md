@@ -1,6 +1,6 @@
 # Practica-Minijuego
 
-##Minijuegos
+## Minijuegos
 
 Biel - Ahorcado
 Xavier - Los dados
